@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle": "2022-03-13 22:18:08 -0500",
+      "minecraft:plains": "2022-03-13 22:17:57 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
