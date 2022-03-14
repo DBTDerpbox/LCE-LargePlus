@@ -16,7 +16,7 @@ To get started, select your platform of choice below.
 
 ### Legacy Console Edition
 
-[NewGen (Nintendo Switch, PS4, Xbox One)](LCE/NextGen/)
+[NextGen (Nintendo Switch, PS4, Xbox One)](LCE/NextGen/)
 
 [Xbox 360 Edition](LCE/OldGen/Xbox360/)
 
