@@ -2,6 +2,8 @@
 
 This repository hosts the LCE Battle Large+ maps, ported to everything I could get them running on
 
+List of coordinates can be found [here](COORDINATES.md).
+
 To get started, select your platform of choice below.
 
 ### Java Edition
