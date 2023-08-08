@@ -35,7 +35,7 @@ Minecraft - [Mojang Studios](https://www.mojang.com/)
 
 Legacy Console Edition - [4J Studios](https://www.4jstudios.com/)
 
-Porting Large+ to all platforms in this repo - [DBTDerpbox](https://github.com/DBTDerpbox)
+Porting Large+ to all platforms in this repo - [Emmie](https://github.com/DBTDerpbox)
 
 Dumping PS4 Edition Files [Khalooody](https://www.youtube.com/channel/UC77rlXgms_qWAnBMdwO_O0w)
 
